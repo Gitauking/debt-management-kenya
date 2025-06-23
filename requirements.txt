@@ -1,0 +1,5 @@
+pandas
+wbgapi
+psycopg2-binary
+matplotlib
+seaborn
